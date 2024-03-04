@@ -26,8 +26,8 @@ Welcome to FlixPort, a personal portfolio website template designed to showcase 
 
 ## Screenshots
 
-- Home
-    ![Home](https://github.com/Thisira99/Portfolio/assets/90537716/46f1b01e-95d5-4bc2-a3a4-37a823f4f2ab)
+- Home  ![Home](https://github.com/Thisira99/Portfolio/assets/90537716/1bae1a32-e1e4-4c11-a0ca-3a8f3d86d707)
+
 
 - About ![About](https://github.com/Thisira99/Portfolio/assets/90537716/00e6bf80-24ac-4780-9ba2-703984abba23)
 
